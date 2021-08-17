@@ -1,11 +1,11 @@
 body {
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/1.png") center no-repeat fixed;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/1.png") center no-repeat fixed;
     background-size: cover;
 }
 
 .head {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/2.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/2.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 40px;
@@ -26,7 +26,7 @@ a {
 
 .name {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/3.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/3.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 70px;
