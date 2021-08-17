@@ -38,7 +38,7 @@ a {
 
 .self {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/4.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/4.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 30px;
@@ -49,7 +49,7 @@ a {
 
  .self_info {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/5.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/5.png") center no-repeat;
     background-size: cover;
     margin: 10px auto ;
     padding-left: 60px;
@@ -59,7 +59,7 @@ a {
 
  .services {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/4.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/4.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 30px;
@@ -70,7 +70,7 @@ a {
 
  .serv_info {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/5.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/5.png") center no-repeat;
     background-size: cover;
     margin: 10px auto ;
     padding-left: 10px;
@@ -91,7 +91,7 @@ a {
 
  .contacts {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/4.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/4.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 30px;
@@ -102,7 +102,7 @@ a {
 
  .cont_info {
     display: flex;
-    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/5.png") center no-repeat;
+    background: url("https://raw.githubusercontent.com/SingleDevRU/SingleDevRU.github.io/main/img/5.png") center no-repeat;
     background-size: cover;
     margin: 10px auto ;
     padding-left: 10px;
