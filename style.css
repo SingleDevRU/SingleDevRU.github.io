@@ -1,0 +1,112 @@
+body {
+    background: image-set("img/1.png") center no-repeat fixed;
+    background-size: cover;
+}
+
+.head {
+    display: flex;
+    background: image-set("img/2.png") center no-repeat;
+    background-size: cover;
+    margin: 0 auto ;
+    padding-top: 40px;
+    padding-bottom: 90px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+ }
+
+
+
+a {
+    text-decoration: none;
+    color:black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.name {
+    display: flex;
+    background: image-set("img/3.png") center no-repeat;
+    background-size: cover;
+    margin: 0 auto ;
+    padding-top: 70px;
+    padding-bottom: 120px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+}
+
+.self {
+    display: flex;
+    background: image-set("img/4.png") center no-repeat;
+    background-size: cover;
+    margin: 0 auto ;
+    padding-top: 30px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+ }
+
+ .self_info {
+    display: flex;
+    background: image-set("img/5.png") center no-repeat;
+    background-size: cover;
+    margin: 10px auto ;
+    padding-left: 60px;
+    max-width: 700px;
+    max-height: 150px;
+ }
+
+ .services {
+    display: flex;
+    background: image-set("img/4.png") center no-repeat;
+    background-size: cover;
+    margin: 0 auto ;
+    padding-top: 30px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+ }
+
+ .serv_info {
+    display: flex;
+    background: image-set("img/5.png") center no-repeat;
+    background-size: cover;
+    margin: 10px auto ;
+    padding-left: 10px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+ }
+
+ table{
+     width: 90%;
+     border: black 4px solid;
+ }
+
+ th, td {
+    width: 50%;
+    border: black 4px solid;
+ }
+
+ .contacts {
+    display: flex;
+    background: image-set("img/4.png") center no-repeat;
+    background-size: cover;
+    margin: 0 auto ;
+    padding-top: 30px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+ }
+
+ .cont_info {
+    display: flex;
+    background: image-set("img/5.png") center no-repeat;
+    background-size: cover;
+    margin: 10px auto ;
+    padding-left: 10px;
+    max-width: 700px;
+    max-height: 150px;
+    justify-content: center;
+ }
