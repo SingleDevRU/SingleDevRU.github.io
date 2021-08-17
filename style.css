@@ -55,6 +55,7 @@ a {
     padding-left: 60px;
     max-width: 700px;
     max-height: 150px;
+    min-width: fit-content;
  }
 
  .services {
