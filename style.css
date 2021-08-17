@@ -1,11 +1,11 @@
 body {
-    background: image-set("img/1.png") center no-repeat fixed;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/1.png") center no-repeat fixed;
     background-size: cover;
 }
 
 .head {
     display: flex;
-    background: image-set("img/2.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/2.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 40px;
@@ -26,7 +26,7 @@ a {
 
 .name {
     display: flex;
-    background: image-set("img/3.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/3.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 70px;
@@ -38,7 +38,7 @@ a {
 
 .self {
     display: flex;
-    background: image-set("img/4.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/4.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 30px;
@@ -49,7 +49,7 @@ a {
 
  .self_info {
     display: flex;
-    background: image-set("img/5.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/5.png") center no-repeat;
     background-size: cover;
     margin: 10px auto ;
     padding-left: 60px;
@@ -59,7 +59,7 @@ a {
 
  .services {
     display: flex;
-    background: image-set("img/4.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/4.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 30px;
@@ -70,7 +70,7 @@ a {
 
  .serv_info {
     display: flex;
-    background: image-set("img/5.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/5.png") center no-repeat;
     background-size: cover;
     margin: 10px auto ;
     padding-left: 10px;
@@ -91,7 +91,7 @@ a {
 
  .contacts {
     display: flex;
-    background: image-set("img/4.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/4.png") center no-repeat;
     background-size: cover;
     margin: 0 auto ;
     padding-top: 30px;
@@ -102,7 +102,7 @@ a {
 
  .cont_info {
     display: flex;
-    background: image-set("img/5.png") center no-repeat;
+    background: url("https://github.com/SingleDevRU/SingleDevRU.github.io/blob/main/img/5.png") center no-repeat;
     background-size: cover;
     margin: 10px auto ;
     padding-left: 10px;
